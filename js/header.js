@@ -2,9 +2,13 @@
 document.querySelector(".writeHeader").innerHTML = `
 
 <header>
-    <a href="index.html"><img src="/assets/bis.png" class="img-fluid" alt="hehe"></a>
     <div class="navbar">
-        <a class="navbar nav-item" href="/index.html">Home</a>
+        <a href="index.html"><img src="/assets/bis.png" class="img-fluid" alt="hehe"></a>
+        <ul class="nav">
+            <li class="nav-item">
+                <a class="navbar nav-link" href="index.html">Home</a>
+            </li>
+        </ul>
     </div>
 </header>
 
