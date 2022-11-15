@@ -7,13 +7,5 @@ document.querySelector(".writeHeader").innerHTML = `
         <a class="navbar nav-item" href="/index.html">Home</a>
     </div>
 </header>
-<!--
-<header style="background-color: gray">
-    <a href="index.html"><img src="/assets/bis.png" class="img-fluid" alt="hehe"></a>
-            <div class="navbar">
-                <a class="navbar nav-item" href="/index.html">Home</a>
-            </div>
-        </header>
--->
 
 `;
